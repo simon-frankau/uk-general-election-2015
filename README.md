@@ -5,8 +5,8 @@ This repo holds 2015 general election data in a form that should be
 easy to process. I looked around for easily-processed data, but
 couldn't find it, so I've scraped it off the BBC website instead.
 
-At the time I scraped it, results were incomplete, and I can make no
-guarantees about accuracy of the original, or my transformation of it.
+I can make no guarantees about accuracy of the original data, or my
+transformation of it. Sorry!
 
 With that out the way...
 
