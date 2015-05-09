@@ -41,3 +41,10 @@ Party long name|Party short name|Candidate name|Number of votes|Percentage of vo
 
 The percentage change is since 2010, with new parties given a previous
 percentage of zero.
+
+Why don't the percentage changes add up to 0?
+---------------------------------------------
+
+I'm not entirely certain, but it looks like it's a combination of
+rounding, and the fraction from parties who aren't standing again
+going away (creating a net positive change for everyone else).
